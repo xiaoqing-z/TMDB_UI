@@ -11,10 +11,11 @@ Features:
 
 Moive source : https://developers.themoviedb.org/3/movies/get-popular-movies
 
-![image](http://github.com/xiaoqingz347@gmail.com/TMDB_UI/raw/master/TMDB_UI/images/index.png)
-![image](http://github.com/xiaoqingz347@gmail.com/TMDB_UI/raw/master/TMDB_UI/images/likelist.png)
-![image](http://github.com/xiaoqingz347@gmail.com/TMDB_UI/raw/master/TMDB_UI/images/details.png)
-![image](http://github.com/xiaoqingz347@gmail.com/TMDB_UI/raw/master/TMDB_UI/images/config.png)
+
+![image](https://github.com/xiaoqing-z/TMDB_UI/blob/master/TMDB_UI/images/index.png)
+![image](https://github.com/xiaoqing-z/TMDB_UI/blob/master/TMDB_UI/images/likelist.png)
+![image](https://github.com/xiaoqing-z/TMDB_UI/blob/master/TMDB_UI/images/details.png)
+![image](https://github.com/xiaoqing-z/TMDB_UI/blob/master/TMDB_UI/images/config.png)
 
 
 
