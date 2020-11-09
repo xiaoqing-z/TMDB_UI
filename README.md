@@ -2,8 +2,11 @@
 This is a singal UI
 
 Features:
+
 1. View movie details
+
 2. Add favorite movies to LikeList
+
 3.Config the order of movies
 
 
