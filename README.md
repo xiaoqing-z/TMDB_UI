@@ -7,8 +7,7 @@ Features:
 
 2. Add favorite movies to LikeList
 
-3.Config the order of movies
-
-
+3. Config the order of movies
 
 Moive source : https://developers.themoviedb.org/3/movies/get-popular-movies
+
